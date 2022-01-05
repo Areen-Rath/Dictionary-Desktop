@@ -1,0 +1,5 @@
+# node_modules
+node_modules/
+
+# The app NSIS folder
+dist/
