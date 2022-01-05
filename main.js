@@ -13,7 +13,7 @@ app.on('ready', () => {
     mainWindow.maximize();
     mainWindow.show();
 
-    // Load Dictionary website.
+    // Load Dictionary web app.
     mainWindow.loadURL("https://areen-rath.github.io/Dictionary");
 
     // Close app.
